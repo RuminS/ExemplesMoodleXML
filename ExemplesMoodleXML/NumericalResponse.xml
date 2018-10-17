@@ -1,6 +1,6 @@
 <?xml 
 version="1.0"?>
-<question type='numerical'>
+<question type='numerical question'>
 	<answer fraction="100">
 		<text>23</text>
 	</answer>
